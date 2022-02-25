@@ -268,3 +268,5 @@ CONF_VERSION = "1"
 
 # Specifies the argument enable_uart=1 to be passed to the kernel during boot
 ENABLE_UART = "1"
+
+INIT_MANAGER = "systemd"
